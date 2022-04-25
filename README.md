@@ -25,7 +25,11 @@ streamlit, dataclasses, typing, datetime, pandas, hashlib
 
 This project demonstrates streamlit functionality and demonstrates various blockchain functionality.
 
-![Screenshot](New Block creation.png)
+### Adding new block and displaying details in sidebar
 
-![Screenshot](Validation True.png)
+![New Block creation](https://user-images.githubusercontent.com/80166984/165016947-dd95a481-ef53-4976-81da-e448e8498c45.png)
+
+### Showing Validation of the pychain
+
+![Validation True](https://user-images.githubusercontent.com/80166984/165016983-e4719032-6267-43b8-92f0-b10d2738c348.png)
 
