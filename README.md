@@ -33,3 +33,6 @@ This project demonstrates streamlit functionality and demonstrates various block
 
 ![Validation True](https://user-images.githubusercontent.com/80166984/165016983-e4719032-6267-43b8-92f0-b10d2738c348.png)
 
+### Adding MP4 file showing the functionality
+https://user-images.githubusercontent.com/80166984/165017231-a04bf038-c7ff-4f6a-b65b-1092f22c4a55.mp4
+
